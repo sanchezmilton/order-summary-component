@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/sanchezmilton/nft-preview-card-component/)
-- [Live Site](https://sanchezmilton.github.io/nft-preview-card-component/)
+- [Solution](https://github.com/sanchezmilton/order-summary-component)
+- [Live Site](https://sanchezmilton.github.io/order-summary-component/)
 
 ## My process
 
@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Milton](https://github.com/sanchezmilton)
+- Frontend Mentor - [@sanchezmilton](https://www.frontendmentor.io/profile/sanchezmilton)
+- Twitter - [@sanchezgmilton](https://www.twitter.com/sanchezgmilton)
